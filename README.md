@@ -8,7 +8,6 @@ El proyecto consta de los siguientes archivos:
 
 - `index.html`: El archivo HTML principal.
 - `styles.css`: El archivo CSS para estilos.
-- `main.js`: El archivo JavaScript para la funcionalidad.
 
 ## Estructura del Proyecto
 
@@ -16,14 +15,12 @@ El proyecto consta de los siguientes archivos:
 netlify-tutorial/
 ├── index.html
 ├── styles.css
-└── main.js
 ```
 
 ## Descripción
 
 - `index.html`: Contiene la estructura básica de la página con un encabezado y un botón.
 - `styles.css`: Define estilos simples para el cuerpo de la página, el encabezado y el botón.
-- `main.js`: Añade un evento de clic al botón para mostrar una alerta.
 
 ## Despliegue en Netlify
 
