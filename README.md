@@ -12,10 +12,12 @@ El proyecto consta de los siguientes archivos:
 
 ## Estructura del Proyecto
 
+```plaintext
 netlify-tutorial/
 ├── index.html
 ├── styles.css
 └── main.js
+```
 
 ## Descripción
 
